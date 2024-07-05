@@ -50,7 +50,7 @@ The following commands are recognized by the system:
 
 ## Video Demonstration
 
-(https://github.com/lalitkarthik/Hand-Gesture-Controlled-Car/blob/main/Model%20image.jpg)
+![Image](https://github.com/lalitkarthik/Hand-Gesture-Controlled-Car/blob/main/Model%20image.jpg)
 
 (https://github.com/lalitkarthik/Hand-Gesture-Controlled-Car/blob/main/Working%20model.mp4)
 
