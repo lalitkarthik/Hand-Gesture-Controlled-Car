@@ -52,7 +52,7 @@ The following commands are recognized by the system:
 
 ![Image](https://github.com/lalitkarthik/Hand-Gesture-Controlled-Car/blob/main/Model%20image.jpg)
 
-(https://github.com/lalitkarthik/Hand-Gesture-Controlled-Car/blob/main/Working%20model.mp4)
+![Video Link](https://github.com/lalitkarthik/Hand-Gesture-Controlled-Car/blob/main/Working%20model.mp4)
 
 ## Conclusion
 This project showcases the integration of computer vision, networking, and embedded systems to create a hand gesture-controlled car. It can be extended with additional features and improvements, such as more complex gestures and improved motor control.
